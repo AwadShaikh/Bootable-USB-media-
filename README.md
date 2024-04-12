@@ -47,43 +47,6 @@ Our bootable media is ready to be used for installing new windows 10 or troubles
 <img src="https://imgur.com/BxxQSW6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Labs output Crashing system by chaning startup valued in system registry  :  <br/>
-<img src="https://imgur.com/ak4IeOr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Restoring crashed system using the system restore point created before  :  <br/>
-<img src="https://imgur.com/VM7UTUj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Restoring crashed system using the system restore point created before : <br/>
-<img src="https://imgur.com/nN8a1Dr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Restoring crashed system using the system restore point created before :  <br/>
-<img src= "https://imgur.com/V51nBqm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Restoring crashed system using the system restore point created before :  <br/>
-<img src="https://imgur.com/jSU8bX3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Restoring crashed system using the system restore point created before :  <br/>
-<img src="https://imgur.com/GXurHTD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Restoring crashed system using the system restore point created before :  <br/>
-<img src="https://imgur.com/lQpj2YO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Restoring crashed system using the system restore point created before :  <br/>
-<img src="https://imgur.com/iBellOr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Successfully restored system using system restore point created before :  <br/>
-<img src="https://imgur.com/UyY2Tlw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
 <br />
 <br />
 
