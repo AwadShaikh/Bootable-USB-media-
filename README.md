@@ -28,23 +28,23 @@ BelnaEtcher
 
 <p align="center">
 Launching BelnaEtcher software to  : <br/>
-<img src="https://imgur.com/HD3ObCo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/HD3ObCo.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Selecting Windows 10 iso file : <br/>
-<img src="https://imgur.com/68oEbBB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/68oEbBB.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Selecting USB on which we will be flashing iso file on :  <br/>
-<img src="https://imgur.com/7kqtjGi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/7kqtjGi.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Flasing under progress:  <br/>
-<img src="https://imgur.com/hdBHCN4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hdBHCN4.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Our bootable media is ready to be used for installing new windows 10 or troubleshooting the old systems :  <br/>
-<img src="https://imgur.com/BxxQSW6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/BxxQSW6.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
